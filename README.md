@@ -22,3 +22,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## The bug
+
+1. Scroll rapidly up and down the datagrid
+2. ![image](https://github.com/martenjurgens/mui-lazy-load-bug/assets/55079581/8cd26edd-5ec3-42a8-957e-5aa5e9518039)
+
+
+
+
