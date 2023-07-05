@@ -14,10 +14,15 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "baseUrl": "src",
+    "typeRoots": ["./src/types", "node_modules/@types"],
     "paths": {
-      "@/*": ["./src/*"]
+      "prisma/*": ["../prisma/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  },
+  "include": ["next-env.d.ts", "./**/*.js", "./.*.js", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
