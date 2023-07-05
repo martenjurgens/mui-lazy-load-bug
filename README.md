@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## The bug
 
-1. Scroll rapidly up and down the datagrid
+1. Scroll rapidly up and down the datagrid. May take a while, if the crash doesn't occur just refresh the page and try again.
 ![image](https://github.com/martenjurgens/mui-lazy-load-bug/assets/55079581/8cd26edd-5ec3-42a8-957e-5aa5e9518039)
 
 
