@@ -8,13 +8,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm install
 ```
 
-2. Run db seed script:
+2. Run docker:
+
+```bash
+docker compose up
+```
+
+3. Run db seed script:
 
 ```bash
 npx prisma db seed
 ```
 
-3. Start development server
+4. Start development server
 
 ```bash
 npm run dev
