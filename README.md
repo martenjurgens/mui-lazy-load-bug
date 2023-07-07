@@ -14,13 +14,25 @@ npm install
 docker compose up
 ```
 
-3. Run db seed script:
+3. Migrate db:
+
+```bash
+npx prisma migrate dev
+```
+
+4. Generate prisma client:
+
+```bash
+npx prisma generate
+```
+
+5. Run db seed script:
 
 ```bash
 npx prisma db seed
 ```
 
-4. Start development server
+6. Start development server
 
 ```bash
 npm run dev
