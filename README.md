@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Replication for [`https://github.com/mui/mui-x/issues/9563`](https://github.com/mui/mui-x/issues/956).
+Replication for [[[`https://github.com/mui/mui-x/issues/9563`](https://github.com/mui/mui-x/issues/956)](https://](https://github.com/mui/mui-x/issues/9563).
 ## Getting Started
 
 1. Install dependencies:
